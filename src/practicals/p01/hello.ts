@@ -1,2 +1,2 @@
 // Write your code below
-//test
+console.log("Hello Exam");
