@@ -15,3 +15,5 @@ function shortenComment(comment: string): string {
   return result;
 } 
 
+shortenComment("TypeScript is a strongly typed programming language");
+
